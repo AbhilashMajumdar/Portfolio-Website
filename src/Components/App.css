@@ -12,19 +12,6 @@
   margin-left: 30px;
 }
 
-/* .pg-table{
-  width: 100vh;
-}
-
-.ug-table{
-  width: 100vh;
-}
-
-.hs-table{
-  margin-left: 30px;
-  margin-right: 30px;
-} */
-
 .project{
   margin-left: 30px;
   margin-right: 30px;
@@ -49,11 +36,11 @@
 }
 
 .mar-gap{
-  margin-right: 30px;
+  margin-right: 20px;
 }
 
 .val{
-  margin-top: 7px;
+  /* margin-top: 7px; */
 }
 
 
@@ -104,12 +91,8 @@
   margin-left: 20px;
 }
 
-.tech-des{
-  margin: 0;
-}
-
 .signature-des{
-  margin-left: 180px;
+  margin-left: 160px;
 }
 
 /* Responsive web design  */
@@ -156,6 +139,15 @@
   .signature-des{
     margin-left: 0px;
   }
+
+  .pic-img{
+    margin-left: 50px;
+  }
+
+  .place-date{
+    margin-left: 100px;
+  }
+
 }
 
 
@@ -166,7 +158,10 @@
   }
 }
 
-@media screen and (width: 1024px) {
-  
+@media screen and (width: 360px) {
+  .tech-des{
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
 }
 

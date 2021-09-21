@@ -12,7 +12,7 @@ const Achievements = () => {
                 </div>
 
                 <div class="row justify-content-center">
-                    <div class="col-12 my-4 tech-skills tech-des">
+                    <div class="col-12 tech-skills tech-des">
                         <div className="skills-ach">
                             <h3 className="mar-gap"><b>Achievement Name :- </b></h3>
                             <h4 className="mar-gap val">5* HackerRank, Problem Solving</h4>

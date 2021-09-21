@@ -13,33 +13,38 @@ const Technical_skills = () => {
 
                 <div class="row">
                     <div class="col-lg-12 my-4 tech-skills tech-des">
-                        <div className="skills align-items-center">
+                        <div className="skills">
                             <h3 className="mar-gap"><b>Programming Languages :- </b></h3>
                             <h4 className="mar-gap val">C, C++, Java, Python</h4>
                         </div>
+                        <hr />
 
                         <div className="skills">
-                            <h3 className="mar-gap"><b>Domain Knowledge :- </b></h3>
+                            <h3 className="mar-gap"><b>Domain Knowledge:- </b></h3>
                             <h4 className="mar-gap val">Data Structure, Algorithm</h4>
                         </div>
+                        <hr />
 
                         <div className="skills">
-                            <h3 className="mar-gap"><b>Skills :- </b></h3>
+                            <h3 className="mar-gap"><b>Skills:-</b></h3>
                             <h4 className="mar-gap val">Html, Css, Java Script, Php, React JS</h4>
                         </div>
+                        <hr />
 
                         <div className="skills">
                             <h3 className="mar-gap"><b>Database Management System :- </b></h3>
                             <h4 className="mar-gap val">MySql</h4>
                         </div>
+                        <hr />
 
                         <div className="skills">
                             <h3 className="mar-gap"><b>Operating Systems :- </b></h3>
                             <h4 className="mar-gap val">Windows, Linux</h4>
                         </div>
+                        <hr />
 
                         <div className="skills">
-                            <h3 className="mar-gap"><b>Computer Proficiency :- </b></h3>
+                            <h3 className="mar-gap"><b>Computer Proficiency:-</b></h3>
                             <h4 className="mar-gap val">Basic knowledge of MS-Office</h4>
                         </div>
                     </div>
